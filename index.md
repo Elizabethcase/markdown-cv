@@ -1,45 +1,35 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Elizabeth Case's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Elizabeth Case
+scientist | writer | artist | educator
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="ehc2150@columbia.edu">ehc2150 [at] columbia [dot] edu</a>
+| <a href="elizabethcase.github.io">Website</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+PhD candidate in glacial geophysics at Columbia University 
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+firn, near-surface processes, phase-sensitive radar, hands-on pedagogy, intersection of art and science
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2009-2014`
+__B.S. Physics | University of California, Los Angeles (UCLA)__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2015-2017`
+__M.S. Mechanical Engineering | Cornell University__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2017-2019`
+__Ph.D. Candidate Earth and Environmental Sciences | Columbia University__
 
 
 ## Awards
@@ -50,12 +40,9 @@ President, *Royal Society*, London, UK
 Associate, *French Academy of Science*, Paris, France
 
 
+## Journal Articles
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
+<!-- A list is also available [online](https://scholar.google.com/citations?user=5GiCed0AAAAJ&hl=en) -->
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
@@ -65,27 +52,23 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Patents
+## Presentations
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+
+## Non-academy work
+
+`2021-2022`
+Glaciologist consult on short film, "Elegy of a Glacier"
+
+`2020`
+Copywriter on the Green New Deal podcast, eps. 1-3
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: February 2022 -->
 
 
